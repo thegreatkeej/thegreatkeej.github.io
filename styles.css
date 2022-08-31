@@ -146,7 +146,7 @@ header.masthead h2 {
     opacity: 1;
 }
 
-.portfolio .portfolio-item .portfolio-item-caption p {
+.portfolio .portfolio-item .portfolio-item-caption  {
     width: 100%;
 }
 
@@ -248,3 +248,16 @@ a:active {
     border-color: #30336b !important;
     color: #fff;
 }
+
+.portfolio-modal{
+    text-align: center;
+}
+
+.portfolio-modal-dialog{
+    display:inline-block;
+}
+
+.portfolio-modal .modal-text{
+    max-width: 960px;
+}
+
