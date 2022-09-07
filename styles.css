@@ -131,6 +131,12 @@ header.masthead h2 {
     margin-bottom: -15px;
 }
 
+.portfolio-item-heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
 .portfolio .portfolio-item .portfolio-item-caption {
     transition: all ease 0.25s;
     position: relative;
