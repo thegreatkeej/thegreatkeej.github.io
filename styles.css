@@ -150,6 +150,11 @@ header.masthead h2 {
     color: #1a252f;
 }
 
+.portfolio .portfolio-item.demo .portfolio-item-caption {
+    background-color:#9304f394;
+    font-weight: bold;
+    color: white;
+}
 .portfolio .portfolio-item.electrical .portfolio-item-caption {
     background-color:#ddf509;
 }
