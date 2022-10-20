@@ -1,7 +1,7 @@
 # thegreatkeej.github.io
 This is a Deployment of my Resume Page (Please check out the website! => https://thegreatkeej.github.io/ )
 
-![Alt text](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture1.png)
+![Alt text](https://github.com/thegreatkeej/thegreatkeej.github.io/blob/main/images/Picture1.png)
 
 ## Greetings
 Hello! This is my portfolio page. Please take a look!
